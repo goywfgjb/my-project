@@ -10,3 +10,4 @@ file.write(" -сейчас: " + time.ctime())
 file.close()
 
 print("сохранено")
+
